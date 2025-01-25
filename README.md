@@ -4,7 +4,7 @@
 This project is a comprehensive analysis of Amazon’s sales data, completed as part of the **PW Skills program**. The goal was to extract insights, identify trends, and provide actionable business recommendations by analyzing sales data using Python and Power BI.
 https://github.com/Athul5817h/Analyzing-Sales-Data/blob/main/Screenshot%202025-01-24%20123827.png?raw=true
 ---
-https://github.com/Athul5817h/Analyzing-Sales-Data/blob/main/Screenshot%202025-01-24%20123827.png
+![image alt](https://github.com/Athul5817h/Analyzing-Sales-Data/blob/main/Screenshot%202025-01-24%20123827.png)
 ## Key Insights 🚀
 1. **Highest Revenue by Category**:
    - **Cosmetics**: $36.3M 🛍️
